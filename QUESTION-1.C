@@ -1,7 +1,6 @@
 CODE:
 
 #include <stdio.h>
-
 int main() {
     float distance, fare = 100;
     char member[10];
