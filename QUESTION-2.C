@@ -1,4 +1,4 @@
-CODE:
+//CODE:
 
 #include <stdio.h>
 
@@ -22,9 +22,9 @@ int main() {
 
     return 0;
 }
-SAMPLE INPUT:
+/*SAMPLE INPUT:
 Questions Answered: 45
 Remaining Time: 12
 Already Submitted: 0
-INPUT:
+*/INPUT:
 Submission Allowed
