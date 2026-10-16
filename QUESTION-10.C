@@ -1,4 +1,4 @@
-CODE:
+//CODE:
 
 #include <stdio.h>
 
@@ -25,7 +25,7 @@ int main() {
 
     return 0;
 }
-INPUT:
+/*INPUT:
 200
-OUTPUT:
+*/OUTPUT:
 Rs.100
