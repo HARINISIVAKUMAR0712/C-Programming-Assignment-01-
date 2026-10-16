@@ -1,4 +1,4 @@
-CODE:
+//CODE:
 
 #include <stdio.h>
 int main() {
@@ -23,8 +23,10 @@ int main() {
 
     return 0;
 }
+/*
 INPUT:
 Distance: 15
 Member: TRUE
 OUTPUT:
 Final Fare: ₹180
+*/
